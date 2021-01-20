@@ -1,0 +1,22 @@
+node_modules
+target
+node_modules/
+target/
+.classpath
+.project
+.settings
+.lock
+.swap
+.env.development.local
+out
+build
+bin
+__jest-junit-reports__
+__cymerge__
+__cytests__
+__finalreport__
+# Coverage directory used by jest
+coverage/
+# Optional eslint cache
+.eslintcache
+yarn-error.log*
